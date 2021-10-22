@@ -4,7 +4,7 @@ const scheduleCronstyle = () => {
     //每分钟的第30秒定时执行一次:
     schedule.scheduleJob('30 * * * * *', () => {
       
-        exec('git.sh',
+        exec( 'sh ./git.sh',
             (error, stdout, stderr) => {
                 console.log(stdout);
                 console.log(stderr);
