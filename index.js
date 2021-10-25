@@ -2,7 +2,7 @@ const schedule = require('node-schedule');
 const exec = require('child_process').exec;
 const scheduleCronstyle = () => {
     //每分钟的第30秒定时执行一次:
-    schedule.scheduleJob('30 15 10 * * *', () => {
+    schedule.scheduleJob('30 15 7 * * *', () => {
 
         exec(' sh ./git.sh',
             (error, stdout, stderr) => {
