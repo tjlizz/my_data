@@ -14,4 +14,4 @@ const scheduleCronstyle = () => {
             });
     });
 }
-scheduleCronstyle()
+scheduleCronstyle();
