@@ -25,7 +25,7 @@
 
 # 全国行政区
 
- 数据准备中
+[获取数据](https://github.com/lizeze/china_region)
  
  # 驾照题库
  
