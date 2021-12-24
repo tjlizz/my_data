@@ -30,7 +30,7 @@
  # 驾照题库
  
  数据准备中
-
-#  感谢
+# 鸣谢
+* 感谢 JetBrains 提供的免费开源 License：
 
 [![](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg)](https://www.jetbrains.com/)
