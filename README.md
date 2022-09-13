@@ -31,3 +31,7 @@
  
  [获取数据](https://github.com/lizeze/driver-data)
 
+#  感谢 JetBrains 提供的免费开源 License：
+
+
+[![](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg)](https://www.jetbrains.com/)
